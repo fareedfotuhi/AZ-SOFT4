@@ -9,7 +9,7 @@
 <img width="1676" alt="Screenshot 2024-04-26 at 4 35 28 PM" src="https://github.com/fareedfotuhi/AZ-SOFT4/assets/59170269/d025a621-af9d-4c85-ab46-7ffcb14f42af">
 *رجکس داده شده در گزارش کار اعداد منفی رو تشخیص نمیدهد یه -? اول توکن‌ها میذاریم که اگر اعداد منفی بودن هم بتواند بدرستی هندل کند
 
-#3
+# 3
 اصلاح Stepdefs
 <img width="1407" alt="Screenshot 2024-04-26 at 4 59 51 PM" src="https://github.com/fareedfotuhi/AZ-SOFT4/assets/59170269/1518fad1-30ce-4bfc-9304-c29729814ef5">
 یک نمونه Scenario معمولی
